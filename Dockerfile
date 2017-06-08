@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Laxmikant Mokadam "lmokadam@gmail.com"
+MAINTAINER Laxmikant Mokadam "lkmokadam@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 
